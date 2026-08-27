@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/adarshgupta004/solutions-repo/tree/master/1046-last-stone-weight) |
 | [1572-matrix-diagonal-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1572-matrix-diagonal-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0287-find-the-duplicate-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0299-bulls-and-cows](https://github.com/adarshgupta004/solutions-repo/tree/master/0299-bulls-and-cows) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
+| [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -213,4 +216,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1808-maximize-number-of-nice-divisors](https://github.com/adarshgupta004/solutions-repo/tree/master/1808-maximize-number-of-nice-divisors) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
