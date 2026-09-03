@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/adarshgupta004/solutions-repo/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/adarshgupta004/solutions-repo/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/adarshgupta004/solutions-repo/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/adarshgupta004/solutions-repo/tree/master/0485-max-consecutive-ones) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/adarshgupta004/solutions-repo/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/adarshgupta004/solutions-repo/tree/master/0443-string-compression) |
