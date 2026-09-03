@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/adarshgupta004/solutions-repo/tree/master/0066-plus-one) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0287-find-the-duplicate-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0316-remove-duplicate-letters) |
 | [0860-lemonade-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
