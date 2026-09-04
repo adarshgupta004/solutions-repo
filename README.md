@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/adarshgupta004/solutions-repo/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0059-spiral-matrix-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/adarshgupta004/solutions-repo/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
