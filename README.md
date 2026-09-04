@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/adarshgupta004/solutions-repo/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/adarshgupta004/solutions-repo/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0074-search-a-2d-matrix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/adarshgupta004/solutions-repo/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/adarshgupta004/solutions-repo/tree/master/0198-house-robber) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
