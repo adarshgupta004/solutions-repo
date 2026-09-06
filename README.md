@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/adarshgupta004/solutions-repo/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/adarshgupta004/solutions-repo/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/adarshgupta004/solutions-repo/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/adarshgupta004/solutions-repo/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/adarshgupta004/solutions-repo/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
