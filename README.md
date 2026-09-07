@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adarshgupta004/solutions-repo/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/adarshgupta004/solutions-repo/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/adarshgupta004/solutions-repo/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0287-find-the-duplicate-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/adarshgupta004/solutions-repo/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/adarshgupta004/solutions-repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1572-matrix-diagonal-sum) |
