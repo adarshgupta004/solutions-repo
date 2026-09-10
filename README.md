@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adarshgupta004/solutions-repo/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/adarshgupta004/solutions-repo/tree/master/0299-bulls-and-cows) |
 | [0432-all-oone-data-structure](https://github.com/adarshgupta004/solutions-repo/tree/master/0432-all-oone-data-structure) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
 | [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/adarshgupta004/solutions-repo/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/adarshgupta004/solutions-repo/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
