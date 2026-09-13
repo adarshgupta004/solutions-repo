@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/adarshgupta004/solutions-repo/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/adarshgupta004/solutions-repo/tree/master/0066-plus-one) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0316-remove-duplicate-letters) |
 | [0860-lemonade-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/adarshgupta004/solutions-repo/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/adarshgupta004/solutions-repo/tree/master/0198-house-robber) |
