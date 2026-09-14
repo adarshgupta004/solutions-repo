@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/adarshgupta004/solutions-repo/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0316-remove-duplicate-letters) |
+| [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
 | [0591-tag-validator](https://github.com/adarshgupta004/solutions-repo/tree/master/0591-tag-validator) |
+| [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
