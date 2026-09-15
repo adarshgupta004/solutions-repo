@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [1046-last-stone-weight](https://github.com/adarshgupta004/solutions-repo/tree/master/1046-last-stone-weight) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
+| [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/adarshgupta004/solutions-repo/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
 |  |
 | ------- |
