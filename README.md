@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/adarshgupta004/solutions-repo/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/adarshgupta004/solutions-repo/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adarshgupta004/solutions-repo/tree/master/0204-count-primes) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/adarshgupta004/solutions-repo/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/adarshgupta004/solutions-repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshgupta004/solutions-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -401,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0124-binary-tree-maximum-path-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adarshgupta004/solutions-repo/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
