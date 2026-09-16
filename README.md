@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshgupta004/solutions-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/adarshgupta004/solutions-repo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0189-rotate-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adarshgupta004/solutions-repo/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/adarshgupta004/solutions-repo/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/adarshgupta004/solutions-repo/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/adarshgupta004/solutions-repo/tree/master/0299-bulls-and-cows) |
 | [0432-all-oone-data-structure](https://github.com/adarshgupta004/solutions-repo/tree/master/0432-all-oone-data-structure) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/adarshgupta004/solutions-repo/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/adarshgupta004/solutions-repo/tree/master/0299-bulls-and-cows) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/adarshgupta004/solutions-repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshgupta004/solutions-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/adarshgupta004/solutions-repo/tree/master/0198-house-robber) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
 ## Bitmask
@@ -415,4 +419,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
