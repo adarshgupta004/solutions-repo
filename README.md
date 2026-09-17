@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adarshgupta004/solutions-repo/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/0279-perfect-squares) |
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/adarshgupta004/solutions-repo/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/0279-perfect-squares) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
 ## Bitmask
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -440,4 +443,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adarshgupta004/solutions-repo/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
