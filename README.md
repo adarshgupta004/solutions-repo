@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/adarshgupta004/solutions-repo/tree/master/0432-all-oone-data-structure) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/adarshgupta004/solutions-repo/tree/master/1808-maximize-number-of-nice-divisors) |
