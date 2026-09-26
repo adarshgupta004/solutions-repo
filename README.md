@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0024-swap-nodes-in-pairs) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/adarshgupta004/solutions-repo/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/adarshgupta004/solutions-repo/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1922-count-good-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1922-count-good-numbers) |
