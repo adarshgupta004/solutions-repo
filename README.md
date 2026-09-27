@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshgupta004/solutions-repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0543-diameter-of-binary-tree) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshgupta004/solutions-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adarshgupta004/solutions-repo/tree/master/0207-course-schedule) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0543-diameter-of-binary-tree) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshgupta004/solutions-repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0543-diameter-of-binary-tree) |
@@ -564,4 +567,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0023-merge-k-sorted-lists) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
