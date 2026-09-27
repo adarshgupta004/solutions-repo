@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/adarshgupta004/solutions-repo/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/adarshgupta004/solutions-repo/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0481-magical-string) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshgupta004/solutions-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
 | [0591-tag-validator](https://github.com/adarshgupta004/solutions-repo/tree/master/0591-tag-validator) |
 | [0739-daily-temperatures](https://github.com/adarshgupta004/solutions-repo/tree/master/0739-daily-temperatures) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0394-decode-string) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/adarshgupta004/solutions-repo/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1922-count-good-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/2487-remove-nodes-from-linked-list) |
