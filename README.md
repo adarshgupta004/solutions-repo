@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adarshgupta004/solutions-repo/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/adarshgupta004/solutions-repo/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adarshgupta004/solutions-repo/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adarshgupta004/solutions-repo/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/0347-top-k-frequent-elements) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/adarshgupta004/solutions-repo/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/adarshgupta004/solutions-repo/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0189-rotate-array) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/adarshgupta004/solutions-repo/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
