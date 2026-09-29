@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adarshgupta004/solutions-repo/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/0279-perfect-squares) |
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/adarshgupta004/solutions-repo/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1922-count-good-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/2487-remove-nodes-from-linked-list) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
+| [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 ## Bitmask
 |  |
 | ------- |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
+| [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
