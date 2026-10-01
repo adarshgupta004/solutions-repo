@@ -3,14 +3,14 @@ class Solution {
         int n = nums.length;
         int[] ans = new int[n];
         
-        // Forward pass
+        // 1. Forward pass: Collect products from the left
         int leftProduct = 1;
         for (int i = 0; i < n; i++) {
             ans[i] = leftProduct;
             leftProduct *= nums[i];
         }
         
-        //  Multiply by products from the right
+        // Backward pass:multiply by product from right
         int rightProduct = 1;
         for (int i = n - 1; i >= 0; i--) {
             ans[i] *= rightProduct;
