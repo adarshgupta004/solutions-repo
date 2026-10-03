@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/adarshgupta004/solutions-repo/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1572-matrix-diagonal-sum) |
 | [2326-spiral-matrix-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/2326-spiral-matrix-iv) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshgupta004/solutions-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/adarshgupta004/solutions-repo/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 ## Counting
