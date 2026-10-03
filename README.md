@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/adarshgupta004/solutions-repo/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/adarshgupta004/solutions-repo/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/adarshgupta004/solutions-repo/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/adarshgupta004/solutions-repo/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshgupta004/solutions-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/adarshgupta004/solutions-repo/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
