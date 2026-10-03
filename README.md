@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/adarshgupta004/solutions-repo/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/adarshgupta004/solutions-repo/tree/master/0704-binary-search) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/adarshgupta004/solutions-repo/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/adarshgupta004/solutions-repo/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/adarshgupta004/solutions-repo/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adarshgupta004/solutions-repo/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshgupta004/solutions-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0852-peak-index-in-a-mountain-array) |
