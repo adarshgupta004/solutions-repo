@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/adarshgupta004/solutions-repo/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshgupta004/solutions-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/adarshgupta004/solutions-repo/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/adarshgupta004/solutions-repo/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshgupta004/solutions-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/adarshgupta004/solutions-repo/tree/master/1539-kth-missing-positive-number) |
@@ -673,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adarshgupta004/solutions-repo/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
