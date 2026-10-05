@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/adarshgupta004/solutions-repo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/adarshgupta004/solutions-repo/tree/master/0739-daily-temperatures) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
 | [0591-tag-validator](https://github.com/adarshgupta004/solutions-repo/tree/master/0591-tag-validator) |
+| [0682-baseball-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/adarshgupta004/solutions-repo/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2487-remove-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/2487-remove-nodes-from-linked-list) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1260-shift-2d-grid) |
