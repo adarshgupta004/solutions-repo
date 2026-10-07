@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/1441-build-an-array-with-stack-operations) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adarshgupta004/solutions-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/adarshgupta004/solutions-repo/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1572-matrix-diagonal-sum) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/adarshgupta004/solutions-repo/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/1441-build-an-array-with-stack-operations) |
 | [2487-remove-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/1441-build-an-array-with-stack-operations) |
 | [2326-spiral-matrix-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/2326-spiral-matrix-iv) |
 ## Linked List
 |  |
