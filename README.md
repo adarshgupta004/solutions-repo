@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/adarshgupta004/solutions-repo/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adarshgupta004/solutions-repo/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adarshgupta004/solutions-repo/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/adarshgupta004/solutions-repo/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adarshgupta004/solutions-repo/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0268-missing-number) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/adarshgupta004/solutions-repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/adarshgupta004/solutions-repo/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adarshgupta004/solutions-repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adarshgupta004/solutions-repo/tree/master/0217-contains-duplicate) |
@@ -734,5 +737,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/adarshgupta004/solutions-repo/tree/master/0149-max-points-on-a-line) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarshgupta004/solutions-repo/tree/master/1232-check-if-it-is-a-straight-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/adarshgupta004/solutions-repo/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/adarshgupta004/solutions-repo/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
