@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/adarshgupta004/solutions-repo/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adarshgupta004/solutions-repo/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/adarshgupta004/solutions-repo/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0367-valid-perfect-square) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/adarshgupta004/solutions-repo/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/adarshgupta004/solutions-repo/tree/master/0223-rectangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarshgupta004/solutions-repo/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Euclidean Algorithm
 |  |
