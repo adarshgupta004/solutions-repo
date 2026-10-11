@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
 | [1041-robot-bounded-in-circle](https://github.com/adarshgupta004/solutions-repo/tree/master/1041-robot-bounded-in-circle) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/adarshgupta004/solutions-repo/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/adarshgupta004/solutions-repo/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
 | ------- |
