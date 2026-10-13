@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int minimumTotal(vector<vector<int>>& triangle) {
+    int n = triangle.size();
+    vector<int> dp(triangle.back());
+
+    for (int layer = n - 2; layer >= 0; --layer) {
+        for (int i = 0; i <= layer; ++i) {
+            dp[i] = triangle[layer][i] + min(dp[i], dp[i + 1]);
+        }
+    }    
+    return dp[0];
+    }
+};
