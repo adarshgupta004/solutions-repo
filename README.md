@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/adarshgupta004/solutions-repo/tree/master/1046-last-stone-weight) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarshgupta004/solutions-repo/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/adarshgupta004/solutions-repo/tree/master/1035-uncrossed-lines) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Bitmask
 |  |
 | ------- |
