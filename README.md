@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/adarshgupta004/solutions-repo/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/adarshgupta004/solutions-repo/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0301-remove-invalid-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/adarshgupta004/solutions-repo/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/adarshgupta004/solutions-repo/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshgupta004/solutions-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adarshgupta004/solutions-repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/adarshgupta004/solutions-repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0700-search-in-a-binary-search-tree) |
