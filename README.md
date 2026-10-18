@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/adarshgupta004/solutions-repo/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/adarshgupta004/solutions-repo/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/adarshgupta004/solutions-repo/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0151-reverse-words-in-a-string) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/adarshgupta004/solutions-repo/tree/master/0078-subsets) |
+| [0093-restore-ip-addresses](https://github.com/adarshgupta004/solutions-repo/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/adarshgupta004/solutions-repo/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0301-remove-invalid-parentheses) |
