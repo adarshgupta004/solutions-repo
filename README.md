@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/adarshgupta004/solutions-repo/tree/master/0994-rotting-oranges) |
+| [1027-longest-arithmetic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/adarshgupta004/solutions-repo/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/adarshgupta004/solutions-repo/tree/master/1046-last-stone-weight) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshgupta004/solutions-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
+| [1027-longest-arithmetic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/1027-longest-arithmetic-subsequence) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adarshgupta004/solutions-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
+| [1027-longest-arithmetic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/1027-longest-arithmetic-subsequence) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/adarshgupta004/solutions-repo/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0931-minimum-falling-path-sum) |
+| [1027-longest-arithmetic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/adarshgupta004/solutions-repo/tree/master/1035-uncrossed-lines) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adarshgupta004/solutions-repo/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
