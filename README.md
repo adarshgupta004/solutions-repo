@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1922-count-good-numbers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Divide and Conquer
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 ## Timsort
 |  |
 | ------- |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-maximize-number-of-nice-divisors](https://github.com/adarshgupta004/solutions-repo/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1922-count-good-numbers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2487-remove-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/2487-remove-nodes-from-linked-list) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/adarshgupta004/solutions-repo/tree/master/3566-partition-array-into-two-equal-product-subsets) |
