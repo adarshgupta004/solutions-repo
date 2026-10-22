@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adarshgupta004/solutions-repo/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/adarshgupta004/solutions-repo/tree/master/0223-rectangle-area) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0367-valid-perfect-square) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/adarshgupta004/solutions-repo/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/adarshgupta004/solutions-repo/tree/master/0299-bulls-and-cows) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0020-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/adarshgupta004/solutions-repo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/adarshgupta004/solutions-repo/tree/master/1808-maximize-number-of-nice-divisors) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/adarshgupta004/solutions-repo/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adarshgupta004/solutions-repo/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -726,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
