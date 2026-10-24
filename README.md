@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/adarshgupta004/solutions-repo/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/adarshgupta004/solutions-repo/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0472-concatenated-words) |
+| [0853-car-fleet](https://github.com/adarshgupta004/solutions-repo/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adarshgupta004/solutions-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0591-tag-validator](https://github.com/adarshgupta004/solutions-repo/tree/master/0591-tag-validator) |
 | [0682-baseball-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/adarshgupta004/solutions-repo/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/adarshgupta004/solutions-repo/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/adarshgupta004/solutions-repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/adarshgupta004/solutions-repo/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/adarshgupta004/solutions-repo/tree/master/0853-car-fleet) |
 | [2487-remove-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
