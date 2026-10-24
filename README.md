@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0931-minimum-falling-path-sum) |
+| [0962-maximum-width-ramp](https://github.com/adarshgupta004/solutions-repo/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/adarshgupta004/solutions-repo/tree/master/0994-rotting-oranges) |
 | [1027-longest-arithmetic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/adarshgupta004/solutions-repo/tree/master/1035-uncrossed-lines) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
+| [0962-maximum-width-ramp](https://github.com/adarshgupta004/solutions-repo/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adarshgupta004/solutions-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/adarshgupta004/solutions-repo/tree/master/1768-merge-strings-alternately) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/adarshgupta004/solutions-repo/tree/master/0853-car-fleet) |
 | [0880-decoded-string-at-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0880-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/adarshgupta004/solutions-repo/tree/master/0962-maximum-width-ramp) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/2487-remove-nodes-from-linked-list) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/adarshgupta004/solutions-repo/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/adarshgupta004/solutions-repo/tree/master/0853-car-fleet) |
+| [0962-maximum-width-ramp](https://github.com/adarshgupta004/solutions-repo/tree/master/0962-maximum-width-ramp) |
 | [2487-remove-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
