@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/adarshgupta004/solutions-repo/tree/master/0962-maximum-width-ramp) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/adarshgupta004/solutions-repo/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adarshgupta004/solutions-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/adarshgupta004/solutions-repo/tree/master/1768-merge-strings-alternately) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
 | [1041-robot-bounded-in-circle](https://github.com/adarshgupta004/solutions-repo/tree/master/1041-robot-bounded-in-circle) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/adarshgupta004/solutions-repo/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adarshgupta004/solutions-repo/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/adarshgupta004/solutions-repo/tree/master/1768-merge-strings-alternately) |
@@ -950,4 +952,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0654-maximum-binary-tree) |
+## Lyndon Factorization
+|  |
+| ------- |
+| [1163-last-substring-in-lexicographical-order](https://github.com/adarshgupta004/solutions-repo/tree/master/1163-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->
