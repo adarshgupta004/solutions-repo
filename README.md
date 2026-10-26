@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/adarshgupta004/solutions-repo/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/adarshgupta004/solutions-repo/tree/master/1046-last-stone-weight) |
 | [1172-dinner-plate-stacks](https://github.com/adarshgupta004/solutions-repo/tree/master/1172-dinner-plate-stacks) |
 ## Quickselect
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/adarshgupta004/solutions-repo/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/adarshgupta004/solutions-repo/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/adarshgupta004/solutions-repo/tree/master/0994-rotting-oranges) |
 ## Doubly-Linked List
 |  |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/adarshgupta004/solutions-repo/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/adarshgupta004/solutions-repo/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -960,4 +964,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1163-last-substring-in-lexicographical-order](https://github.com/adarshgupta004/solutions-repo/tree/master/1163-last-substring-in-lexicographical-order) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
