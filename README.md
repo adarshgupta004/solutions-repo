@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/adarshgupta004/solutions-repo/tree/master/0704-binary-search) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/adarshgupta004/solutions-repo/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/adarshgupta004/solutions-repo/tree/master/0740-delete-and-earn) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/adarshgupta004/solutions-repo/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adarshgupta004/solutions-repo/tree/master/0704-binary-search) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshgupta004/solutions-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/adarshgupta004/solutions-repo/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0472-concatenated-words) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0853-car-fleet](https://github.com/adarshgupta004/solutions-repo/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adarshgupta004/solutions-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/adarshgupta004/solutions-repo/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
