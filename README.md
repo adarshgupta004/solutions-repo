@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
 | [1027-longest-arithmetic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/1027-longest-arithmetic-subsequence) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1172-dinner-plate-stacks](https://github.com/adarshgupta004/solutions-repo/tree/master/1172-dinner-plate-stacks) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/adarshgupta004/solutions-repo/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/adarshgupta004/solutions-repo/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1472-design-browser-history](https://github.com/adarshgupta004/solutions-repo/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1797-design-authentication-manager](https://github.com/adarshgupta004/solutions-repo/tree/master/1797-design-authentication-manager) |
