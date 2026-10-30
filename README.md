@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/adarshgupta004/solutions-repo/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/adarshgupta004/solutions-repo/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/adarshgupta004/solutions-repo/tree/master/0962-maximum-width-ramp) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/adarshgupta004/solutions-repo/tree/master/1163-last-substring-in-lexicographical-order) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/adarshgupta004/solutions-repo/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/adarshgupta004/solutions-repo/tree/master/0817-linked-list-components) |
+| [0876-middle-of-the-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/adarshgupta004/solutions-repo/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1797-design-authentication-manager](https://github.com/adarshgupta004/solutions-repo/tree/master/1797-design-authentication-manager) |
