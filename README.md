@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/adarshgupta004/solutions-repo/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshgupta004/solutions-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0746-min-cost-climbing-stairs) |
+| [0817-linked-list-components](https://github.com/adarshgupta004/solutions-repo/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/adarshgupta004/solutions-repo/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/adarshgupta004/solutions-repo/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/adarshgupta004/solutions-repo/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
+| [0817-linked-list-components](https://github.com/adarshgupta004/solutions-repo/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/adarshgupta004/solutions-repo/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/adarshgupta004/solutions-repo/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/adarshgupta004/solutions-repo/tree/master/0817-linked-list-components) |
 | [1472-design-browser-history](https://github.com/adarshgupta004/solutions-repo/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1797-design-authentication-manager](https://github.com/adarshgupta004/solutions-repo/tree/master/1797-design-authentication-manager) |
