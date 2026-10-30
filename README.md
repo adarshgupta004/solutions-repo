@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/0622-design-circular-queue) |
 | [0654-maximum-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/adarshgupta004/solutions-repo/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/adarshgupta004/solutions-repo/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/adarshgupta004/solutions-repo/tree/master/0817-linked-list-components) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/adarshgupta004/solutions-repo/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/adarshgupta004/solutions-repo/tree/master/0432-all-oone-data-structure) |
+| [0622-design-circular-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0707-design-linked-list) |
 | [0911-online-election](https://github.com/adarshgupta004/solutions-repo/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
@@ -909,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adarshgupta004/solutions-repo/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/0622-design-circular-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
 ## Monotonic Queue
