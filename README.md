@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/adarshgupta004/solutions-repo/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
 | [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/2179-count-good-triplets-in-an-array) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
 ## Sorting
 |  |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0724-find-pivot-index) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
 ## Greedy
 |  |
@@ -937,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0148-sort-list) |
 | [2179-count-good-triplets-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/2179-count-good-triplets-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -1019,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/2179-count-good-triplets-in-an-array) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
