@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
 | [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/adarshgupta004/solutions-repo/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/adarshgupta004/solutions-repo/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/adarshgupta004/solutions-repo/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/adarshgupta004/solutions-repo/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -1022,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2179-count-good-triplets-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/2179-count-good-triplets-in-an-array) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/adarshgupta004/solutions-repo/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1031,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/adarshgupta004/solutions-repo/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
