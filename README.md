@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshgupta004/solutions-repo/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/adarshgupta004/solutions-repo/tree/master/0817-linked-list-components) |
+| [0819-most-common-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/adarshgupta004/solutions-repo/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/adarshgupta004/solutions-repo/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshgupta004/solutions-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0819-most-common-word) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/adarshgupta004/solutions-repo/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0817-linked-list-components](https://github.com/adarshgupta004/solutions-repo/tree/master/0817-linked-list-components) |
+| [0819-most-common-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/adarshgupta004/solutions-repo/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
+| [0819-most-common-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/adarshgupta004/solutions-repo/tree/master/0821-shortest-distance-to-a-character) |
 | [0880-decoded-string-at-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0880-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
