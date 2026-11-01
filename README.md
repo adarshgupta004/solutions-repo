@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/adarshgupta004/solutions-repo/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/adarshgupta004/solutions-repo/tree/master/1046-last-stone-weight) |
+| [1090-largest-values-from-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/1090-largest-values-from-labels) |
 | [1095-find-in-mountain-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0819-most-common-word) |
 | [0923-3sum-with-multiplicity](https://github.com/adarshgupta004/solutions-repo/tree/master/0923-3sum-with-multiplicity) |
+| [1090-largest-values-from-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/1090-largest-values-from-labels) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/adarshgupta004/solutions-repo/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/adarshgupta004/solutions-repo/tree/master/0923-3sum-with-multiplicity) |
+| [1090-largest-values-from-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/1090-largest-values-from-labels) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adarshgupta004/solutions-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/adarshgupta004/solutions-repo/tree/master/0923-3sum-with-multiplicity) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
 | [1027-longest-arithmetic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/1027-longest-arithmetic-subsequence) |
+| [1090-largest-values-from-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/1090-largest-values-from-labels) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1172-dinner-plate-stacks](https://github.com/adarshgupta004/solutions-repo/tree/master/1172-dinner-plate-stacks) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1090-largest-values-from-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/1090-largest-values-from-labels) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 ## Timsort
