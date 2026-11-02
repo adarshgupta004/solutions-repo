@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0591-tag-validator](https://github.com/adarshgupta004/solutions-repo/tree/master/0591-tag-validator) |
 | [0639-decode-ways-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0639-decode-ways-ii) |
 | [0657-robot-return-to-origin](https://github.com/adarshgupta004/solutions-repo/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/adarshgupta004/solutions-repo/tree/master/0726-number-of-atoms) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0488-zuma-game) |
 | [0591-tag-validator](https://github.com/adarshgupta004/solutions-repo/tree/master/0591-tag-validator) |
 | [0654-maximum-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/adarshgupta004/solutions-repo/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/adarshgupta004/solutions-repo/tree/master/0739-daily-temperatures) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0518-coin-change-ii) |
 | [0639-decode-ways-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0639-decode-ways-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/adarshgupta004/solutions-repo/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0746-min-cost-climbing-stairs) |
