@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/adarshgupta004/solutions-repo/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/adarshgupta004/solutions-repo/tree/master/0994-rotting-oranges) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1027-longest-arithmetic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/adarshgupta004/solutions-repo/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/adarshgupta004/solutions-repo/tree/master/1046-last-stone-weight) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/adarshgupta004/solutions-repo/tree/master/0868-binary-gap) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/adarshgupta004/solutions-repo/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Pigeonhole Principle
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0724-find-pivot-index) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2156-find-substring-with-given-hash-value](https://github.com/adarshgupta004/solutions-repo/tree/master/2156-find-substring-with-given-hash-value) |
 ## Dynamic Programming
 |  |
@@ -937,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/adarshgupta004/solutions-repo/tree/master/0139-word-break) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Manacher
 |  |
 | ------- |
@@ -992,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adarshgupta004/solutions-repo/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/0622-design-circular-queue) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
 ## Monotonic Queue
