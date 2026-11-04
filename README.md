@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/adarshgupta004/solutions-repo/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/adarshgupta004/solutions-repo/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/adarshgupta004/solutions-repo/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1027-longest-arithmetic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/adarshgupta004/solutions-repo/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/adarshgupta004/solutions-repo/tree/master/1046-last-stone-weight) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0819-most-common-word) |
 | [0923-3sum-with-multiplicity](https://github.com/adarshgupta004/solutions-repo/tree/master/0923-3sum-with-multiplicity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/0992-subarrays-with-k-different-integers) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/adarshgupta004/solutions-repo/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1090-largest-values-from-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/1090-largest-values-from-labels) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/adarshgupta004/solutions-repo/tree/master/0923-3sum-with-multiplicity) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/0992-subarrays-with-k-different-integers) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/adarshgupta004/solutions-repo/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1027-longest-arithmetic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/1027-longest-arithmetic-subsequence) |
 | [1090-largest-values-from-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/1090-largest-values-from-labels) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
