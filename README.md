@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2073-time-needed-to-buy-tickets](https://github.com/adarshgupta004/solutions-repo/tree/master/2073-time-needed-to-buy-tickets) |
 | [2179-count-good-triplets-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/2179-count-good-triplets-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/2326-spiral-matrix-iv) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarshgupta004/solutions-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/adarshgupta004/solutions-repo/tree/master/2073-time-needed-to-buy-tickets) |
 | [2326-spiral-matrix-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/2326-spiral-matrix-iv) |
 | [3271-hash-divided-string](https://github.com/adarshgupta004/solutions-repo/tree/master/3271-hash-divided-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1031,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarshgupta004/solutions-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/adarshgupta004/solutions-repo/tree/master/2073-time-needed-to-buy-tickets) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
 ## Monotonic Queue
 |  |
