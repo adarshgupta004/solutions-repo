@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/adarshgupta004/solutions-repo/tree/master/0641-design-circular-deque) |
 | [0654-maximum-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/adarshgupta004/solutions-repo/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/adarshgupta004/solutions-repo/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/adarshgupta004/solutions-repo/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/adarshgupta004/solutions-repo/tree/master/0817-linked-list-components) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/adarshgupta004/solutions-repo/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/adarshgupta004/solutions-repo/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/adarshgupta004/solutions-repo/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/adarshgupta004/solutions-repo/tree/master/0707-design-linked-list) |
 | [0911-online-election](https://github.com/adarshgupta004/solutions-repo/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/adarshgupta004/solutions-repo/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/adarshgupta004/solutions-repo/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/adarshgupta004/solutions-repo/tree/master/0641-design-circular-deque) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0936-stamping-the-sequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0936-stamping-the-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
