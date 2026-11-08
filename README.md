@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0540-single-element-in-a-sorted-array) |
+| [0546-remove-boxes](https://github.com/adarshgupta004/solutions-repo/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/adarshgupta004/solutions-repo/tree/master/0641-design-circular-deque) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0518-coin-change-ii) |
+| [0546-remove-boxes](https://github.com/adarshgupta004/solutions-repo/tree/master/0546-remove-boxes) |
 | [0639-decode-ways-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0639-decode-ways-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0678-valid-parenthesis-string) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0488-zuma-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/adarshgupta004/solutions-repo/tree/master/0546-remove-boxes) |
 | [0894-all-possible-full-binary-trees](https://github.com/adarshgupta004/solutions-repo/tree/master/0894-all-possible-full-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Trie
