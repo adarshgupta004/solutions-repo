@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/adarshgupta004/solutions-repo/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshgupta004/solutions-repo/tree/master/0907-sum-of-subarray-minimums) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
+| [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 | [0906-super-palindromes](https://github.com/adarshgupta004/solutions-repo/tree/master/0906-super-palindromes) |
 | [1041-robot-bounded-in-circle](https://github.com/adarshgupta004/solutions-repo/tree/master/1041-robot-bounded-in-circle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/adarshgupta004/solutions-repo/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/adarshgupta004/solutions-repo/tree/master/0894-all-possible-full-binary-trees) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshgupta004/solutions-repo/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0931-minimum-falling-path-sum) |
@@ -1252,10 +1255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
+| [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1268,4 +1273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0753-cracking-the-safe](https://github.com/adarshgupta004/solutions-repo/tree/master/0753-cracking-the-safe) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
