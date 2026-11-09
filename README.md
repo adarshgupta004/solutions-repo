@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0817-linked-list-components](https://github.com/adarshgupta004/solutions-repo/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/adarshgupta004/solutions-repo/tree/master/0911-online-election) |
 | [0923-3sum-with-multiplicity](https://github.com/adarshgupta004/solutions-repo/tree/master/0923-3sum-with-multiplicity) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0819-most-common-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/adarshgupta004/solutions-repo/tree/master/0821-shortest-distance-to-a-character) |
+| [0859-buddy-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0880-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0936-stamping-the-sequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0936-stamping-the-sequence) |
