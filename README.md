@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
+| [0906-super-palindromes](https://github.com/adarshgupta004/solutions-repo/tree/master/0906-super-palindromes) |
 | [1041-robot-bounded-in-circle](https://github.com/adarshgupta004/solutions-repo/tree/master/1041-robot-bounded-in-circle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarshgupta004/solutions-repo/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/adarshgupta004/solutions-repo/tree/master/0821-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0880-decoded-string-at-index) |
+| [0906-super-palindromes](https://github.com/adarshgupta004/solutions-repo/tree/master/0906-super-palindromes) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshgupta004/solutions-repo/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0936-stamping-the-sequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0936-stamping-the-sequence) |
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adarshgupta004/solutions-repo/tree/master/0204-count-primes) |
+| [0906-super-palindromes](https://github.com/adarshgupta004/solutions-repo/tree/master/0906-super-palindromes) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/adarshgupta004/solutions-repo/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Primality Test
 |  |
