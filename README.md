@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/adarshgupta004/solutions-repo/tree/master/1833-maximum-ice-cream-bars) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adarshgupta004/solutions-repo/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adarshgupta004/solutions-repo/tree/master/2073-time-needed-to-buy-tickets) |
 | [2179-count-good-triplets-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/2179-count-good-triplets-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/2326-spiral-matrix-iv) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/1090-largest-values-from-labels) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adarshgupta004/solutions-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-maximum-ice-cream-bars](https://github.com/adarshgupta004/solutions-repo/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adarshgupta004/solutions-repo/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1833-maximum-ice-cream-bars](https://github.com/adarshgupta004/solutions-repo/tree/master/1833-maximum-ice-cream-bars) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adarshgupta004/solutions-repo/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Timsort
 |  |
 | ------- |
@@ -1288,4 +1291,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/adarshgupta004/solutions-repo/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/adarshgupta004/solutions-repo/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adarshgupta004/solutions-repo/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
