@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1572-matrix-diagonal-sum) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
 | [1672-richest-customer-wealth](https://github.com/adarshgupta004/solutions-repo/tree/master/1672-richest-customer-wealth) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarshgupta004/solutions-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/adarshgupta004/solutions-repo/tree/master/1499-max-value-of-equation) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2762-continuous-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adarshgupta004/solutions-repo/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/adarshgupta004/solutions-repo/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/adarshgupta004/solutions-repo/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2466-count-ways-to-build-good-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/2466-count-ways-to-build-good-strings) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adarshgupta004/solutions-repo/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -1122,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/adarshgupta004/solutions-repo/tree/master/1499-max-value-of-equation) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarshgupta004/solutions-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adarshgupta004/solutions-repo/tree/master/2073-time-needed-to-buy-tickets) |
@@ -1137,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/adarshgupta004/solutions-repo/tree/master/1499-max-value-of-equation) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2762-continuous-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adarshgupta004/solutions-repo/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -1237,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2179-count-good-triplets-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/2179-count-good-triplets-in-an-array) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
