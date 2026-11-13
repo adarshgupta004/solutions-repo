@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/adarshgupta004/solutions-repo/tree/master/1472-design-browser-history) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adarshgupta004/solutions-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/adarshgupta004/solutions-repo/tree/master/1046-last-stone-weight) |
 | [1172-dinner-plate-stacks](https://github.com/adarshgupta004/solutions-repo/tree/master/1172-dinner-plate-stacks) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [2762-continuous-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adarshgupta004/solutions-repo/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [2156-find-substring-with-given-hash-value](https://github.com/adarshgupta004/solutions-repo/tree/master/2156-find-substring-with-given-hash-value) |
 | [2762-continuous-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/2762-continuous-subarrays) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adarshgupta004/solutions-repo/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/adarshgupta004/solutions-repo/tree/master/2327-number-of-people-aware-of-a-secret) |
@@ -1113,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0936-stamping-the-sequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0936-stamping-the-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarshgupta004/solutions-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adarshgupta004/solutions-repo/tree/master/2073-time-needed-to-buy-tickets) |
@@ -1126,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/adarshgupta004/solutions-repo/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [2762-continuous-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adarshgupta004/solutions-repo/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/3589-count-prime-gap-balanced-subarrays) |
