@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/adarshgupta004/solutions-repo/tree/master/1672-richest-customer-wealth) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarshgupta004/solutions-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1726-tuple-with-same-product](https://github.com/adarshgupta004/solutions-repo/tree/master/1726-tuple-with-same-product) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/adarshgupta004/solutions-repo/tree/master/1833-maximum-ice-cream-bars) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1370-increasing-decreasing-string) |
 | [1399-count-largest-group](https://github.com/adarshgupta004/solutions-repo/tree/master/1399-count-largest-group) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
+| [1726-tuple-with-same-product](https://github.com/adarshgupta004/solutions-repo/tree/master/1726-tuple-with-same-product) |
 | [2514-count-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/2514-count-anagrams) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1370-increasing-decreasing-string) |
 | [1399-count-largest-group](https://github.com/adarshgupta004/solutions-repo/tree/master/1399-count-largest-group) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
+| [1726-tuple-with-same-product](https://github.com/adarshgupta004/solutions-repo/tree/master/1726-tuple-with-same-product) |
 | [1797-design-authentication-manager](https://github.com/adarshgupta004/solutions-repo/tree/master/1797-design-authentication-manager) |
 | [2514-count-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/2514-count-anagrams) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
