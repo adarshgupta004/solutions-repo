@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1366-rank-teams-by-votes](https://github.com/adarshgupta004/solutions-repo/tree/master/1366-rank-teams-by-votes) |
 | [1370-increasing-decreasing-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1370-increasing-decreasing-string) |
+| [1399-count-largest-group](https://github.com/adarshgupta004/solutions-repo/tree/master/1399-count-largest-group) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
 | [2514-count-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/2514-count-anagrams) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarshgupta004/solutions-repo/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1399-count-largest-group](https://github.com/adarshgupta004/solutions-repo/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adarshgupta004/solutions-repo/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/adarshgupta004/solutions-repo/tree/master/1808-maximize-number-of-nice-divisors) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1366-rank-teams-by-votes](https://github.com/adarshgupta004/solutions-repo/tree/master/1366-rank-teams-by-votes) |
 | [1370-increasing-decreasing-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1370-increasing-decreasing-string) |
+| [1399-count-largest-group](https://github.com/adarshgupta004/solutions-repo/tree/master/1399-count-largest-group) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
 | [1797-design-authentication-manager](https://github.com/adarshgupta004/solutions-repo/tree/master/1797-design-authentication-manager) |
 | [2514-count-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/2514-count-anagrams) |
