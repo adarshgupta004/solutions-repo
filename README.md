@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/adarshgupta004/solutions-repo/tree/master/0684-redundant-connection) |
+| [0765-couples-holding-hands](https://github.com/adarshgupta004/solutions-repo/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0678-valid-parenthesis-string) |
 | [0757-set-intersection-size-at-least-two](https://github.com/adarshgupta004/solutions-repo/tree/master/0757-set-intersection-size-at-least-two) |
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
+| [0765-couples-holding-hands](https://github.com/adarshgupta004/solutions-repo/tree/master/0765-couples-holding-hands) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0781-rabbits-in-forest](https://github.com/adarshgupta004/solutions-repo/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0860-lemonade-change) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/adarshgupta004/solutions-repo/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/adarshgupta004/solutions-repo/tree/master/0753-cracking-the-safe) |
+| [0765-couples-holding-hands](https://github.com/adarshgupta004/solutions-repo/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
 ## Binary Tree
 |  |
@@ -1041,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0488-zuma-game) |
 | [0684-redundant-connection](https://github.com/adarshgupta004/solutions-repo/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
+| [0765-couples-holding-hands](https://github.com/adarshgupta004/solutions-repo/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/adarshgupta004/solutions-repo/tree/master/0994-rotting-oranges) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1146,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/adarshgupta004/solutions-repo/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/adarshgupta004/solutions-repo/tree/master/0753-cracking-the-safe) |
+| [0765-couples-holding-hands](https://github.com/adarshgupta004/solutions-repo/tree/master/0765-couples-holding-hands) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
