@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/0622-design-circular-queue) |
 | [0630-course-schedule-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0638-shopping-offers](https://github.com/adarshgupta004/solutions-repo/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/adarshgupta004/solutions-repo/tree/master/0641-design-circular-deque) |
 | [0654-maximum-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0654-maximum-binary-tree) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/adarshgupta004/solutions-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0472-concatenated-words) |
 | [0630-course-schedule-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/adarshgupta004/solutions-repo/tree/master/0726-number-of-atoms) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshgupta004/solutions-repo/tree/master/0451-sort-characters-by-frequency) |
 | [0630-course-schedule-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/adarshgupta004/solutions-repo/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/adarshgupta004/solutions-repo/tree/master/0740-delete-and-earn) |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0316-remove-duplicate-letters) |
 | [0630-course-schedule-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -791,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/adarshgupta004/solutions-repo/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/adarshgupta004/solutions-repo/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/0992-subarrays-with-k-different-integers) |
