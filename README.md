@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adarshgupta004/solutions-repo/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/adarshgupta004/solutions-repo/tree/master/1472-design-browser-history) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adarshgupta004/solutions-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1172-dinner-plate-stacks](https://github.com/adarshgupta004/solutions-repo/tree/master/1172-dinner-plate-stacks) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adarshgupta004/solutions-repo/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/adarshgupta004/solutions-repo/tree/master/1499-max-value-of-equation) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2762-continuous-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/2762-continuous-subarrays) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adarshgupta004/solutions-repo/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/adarshgupta004/solutions-repo/tree/master/1499-max-value-of-equation) |
 | [2156-find-substring-with-given-hash-value](https://github.com/adarshgupta004/solutions-repo/tree/master/2156-find-substring-with-given-hash-value) |
 | [2762-continuous-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/2762-continuous-subarrays) |
@@ -1173,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0936-stamping-the-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adarshgupta004/solutions-repo/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/adarshgupta004/solutions-repo/tree/master/1499-max-value-of-equation) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarshgupta004/solutions-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -1189,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/adarshgupta004/solutions-repo/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adarshgupta004/solutions-repo/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/adarshgupta004/solutions-repo/tree/master/1499-max-value-of-equation) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2762-continuous-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/2762-continuous-subarrays) |
@@ -1309,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adarshgupta004/solutions-repo/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2179-count-good-triplets-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/2179-count-good-triplets-in-an-array) |
 | [2762-continuous-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/2762-continuous-subarrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
