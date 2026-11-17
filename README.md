@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/adarshgupta004/solutions-repo/tree/master/0641-design-circular-deque) |
 | [0654-maximum-binary-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0654-maximum-binary-tree) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adarshgupta004/solutions-repo/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0661-image-smoother](https://github.com/adarshgupta004/solutions-repo/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0682-baseball-game) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0240-search-a-2d-matrix-ii) |
+| [0661-image-smoother](https://github.com/adarshgupta004/solutions-repo/tree/master/0661-image-smoother) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0867-transpose-matrix) |
