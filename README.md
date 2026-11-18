@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/adarshgupta004/solutions-repo/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 | [0906-super-palindromes](https://github.com/adarshgupta004/solutions-repo/tree/master/0906-super-palindromes) |
+| [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 | [1041-robot-bounded-in-circle](https://github.com/adarshgupta004/solutions-repo/tree/master/1041-robot-bounded-in-circle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarshgupta004/solutions-repo/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/adarshgupta004/solutions-repo/tree/master/0894-all-possible-full-binary-trees) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshgupta004/solutions-repo/tree/master/0907-sum-of-subarray-minimums) |
+| [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 | [0931-minimum-falling-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/adarshgupta004/solutions-repo/tree/master/0983-minimum-cost-for-tickets) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/adarshgupta004/solutions-repo/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -1120,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/adarshgupta004/solutions-repo/tree/master/0546-remove-boxes) |
 | [0638-shopping-offers](https://github.com/adarshgupta004/solutions-repo/tree/master/0638-shopping-offers) |
 | [0894-all-possible-full-binary-trees](https://github.com/adarshgupta004/solutions-repo/tree/master/0894-all-possible-full-binary-trees) |
+| [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Trie
@@ -1178,12 +1181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/adarshgupta004/solutions-repo/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/adarshgupta004/solutions-repo/tree/master/0765-couples-holding-hands) |
+| [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/adarshgupta004/solutions-repo/tree/master/0207-course-schedule) |
+| [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -1392,11 +1397,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 ## Game Theory
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1413,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 ## Counting Sort
 |  |
 | ------- |
