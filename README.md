@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/adarshgupta004/solutions-repo/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adarshgupta004/solutions-repo/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/adarshgupta004/solutions-repo/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/adarshgupta004/solutions-repo/tree/master/0868-binary-gap) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/adarshgupta004/solutions-repo/tree/master/3566-partition-array-into-two-equal-product-subsets) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/adarshgupta004/solutions-repo/tree/master/0894-all-possible-full-binary-trees) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/adarshgupta004/solutions-repo/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1922-count-good-numbers) |
@@ -892,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/adarshgupta004/solutions-repo/tree/master/2327-number-of-people-aware-of-a-secret) |
@@ -1111,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/adarshgupta004/solutions-repo/tree/master/0638-shopping-offers) |
 | [0894-all-possible-full-binary-trees](https://github.com/adarshgupta004/solutions-repo/tree/master/0894-all-possible-full-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Trie
 |  |
 | ------- |
