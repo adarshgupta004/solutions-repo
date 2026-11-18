@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/adarshgupta004/solutions-repo/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0525-contiguous-array) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/adarshgupta004/solutions-repo/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/0301-remove-invalid-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/adarshgupta004/solutions-repo/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
 | [0488-zuma-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0488-zuma-game) |
+| [0494-target-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/adarshgupta004/solutions-repo/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0518-coin-change-ii) |
@@ -1152,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0518-coin-change-ii) |
 | [0638-shopping-offers](https://github.com/adarshgupta004/solutions-repo/tree/master/0638-shopping-offers) |
 ## Complete Knapsack
@@ -1172,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0494-target-sum) |
 ## Bucket Sort
 |  |
 | ------- |
