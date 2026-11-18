@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1399-count-largest-group](https://github.com/adarshgupta004/solutions-repo/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adarshgupta004/solutions-repo/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adarshgupta004/solutions-repo/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
+| [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
@@ -1402,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 | [1406-stone-game-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
@@ -1409,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 | [1406-stone-game-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1427,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 | [1406-stone-game-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1434,4 +1439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/adarshgupta004/solutions-repo/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adarshgupta004/solutions-repo/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
