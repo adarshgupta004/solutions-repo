@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adarshgupta004/solutions-repo/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1366-rank-teams-by-votes](https://github.com/adarshgupta004/solutions-repo/tree/master/1366-rank-teams-by-votes) |
 | [1370-increasing-decreasing-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1370-increasing-decreasing-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/adarshgupta004/solutions-repo/tree/master/1768-merge-strings-alternately) |
 | [2156-find-substring-with-given-hash-value](https://github.com/adarshgupta004/solutions-repo/tree/master/2156-find-substring-with-given-hash-value) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/1441-build-an-array-with-stack-operations) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/adarshgupta004/solutions-repo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adarshgupta004/solutions-repo/tree/master/2073-time-needed-to-buy-tickets) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/adarshgupta004/solutions-repo/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/adarshgupta004/solutions-repo/tree/master/0894-all-possible-full-binary-trees) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/adarshgupta004/solutions-repo/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
