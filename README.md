@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/adarshgupta004/solutions-repo/tree/master/0436-find-right-interval) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0441-arranging-coins](https://github.com/adarshgupta004/solutions-repo/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
