@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/adarshgupta004/solutions-repo/tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/adarshgupta004/solutions-repo/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/adarshgupta004/solutions-repo/tree/master/0485-max-consecutive-ones) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0441-arranging-coins](https://github.com/adarshgupta004/solutions-repo/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0445-add-two-numbers-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/adarshgupta004/solutions-repo/tree/master/0509-fibonacci-number) |
 | [0679-24-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0679-24-game) |
 | [0779-k-th-symbol-in-grammar](https://github.com/adarshgupta004/solutions-repo/tree/master/0779-k-th-symbol-in-grammar) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/adarshgupta004/solutions-repo/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshgupta004/solutions-repo/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/adarshgupta004/solutions-repo/tree/master/0472-concatenated-words) |
 | [0630-course-schedule-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adarshgupta004/solutions-repo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
