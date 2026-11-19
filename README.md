@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2762-continuous-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adarshgupta004/solutions-repo/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3364-minimum-positive-sum-subarray) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3429-paint-house-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/3429-paint-house-iv) |
