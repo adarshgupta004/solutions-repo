@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2762-continuous-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/2762-continuous-subarrays) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adarshgupta004/solutions-repo/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adarshgupta004/solutions-repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adarshgupta004/solutions-repo/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3364-minimum-positive-sum-subarray) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/adarshgupta004/solutions-repo/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adarshgupta004/solutions-repo/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adarshgupta004/solutions-repo/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2327-number-of-people-aware-of-a-secret](https://github.com/adarshgupta004/solutions-repo/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2466-count-ways-to-build-good-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/2466-count-ways-to-build-good-strings) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adarshgupta004/solutions-repo/tree/master/2944-minimum-number-of-coins-for-fruits) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adarshgupta004/solutions-repo/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3429-paint-house-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/3429-paint-house-iv) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
