@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshgupta004/solutions-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/adarshgupta004/solutions-repo/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshgupta004/solutions-repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1987-number-of-unique-good-subsequences](https://github.com/adarshgupta004/solutions-repo/tree/master/1987-number-of-unique-good-subsequences) |
 | [2156-find-substring-with-given-hash-value](https://github.com/adarshgupta004/solutions-repo/tree/master/2156-find-substring-with-given-hash-value) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [1987-number-of-unique-good-subsequences](https://github.com/adarshgupta004/solutions-repo/tree/master/1987-number-of-unique-good-subsequences) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/adarshgupta004/solutions-repo/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2466-count-ways-to-build-good-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/2466-count-ways-to-build-good-strings) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adarshgupta004/solutions-repo/tree/master/2944-minimum-number-of-coins-for-fruits) |
