@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/adarshgupta004/solutions-repo/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/adarshgupta004/solutions-repo/tree/master/0825-friends-of-appropriate-ages) |
+| [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/adarshgupta004/solutions-repo/tree/master/0853-car-fleet) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/adarshgupta004/solutions-repo/tree/master/0684-redundant-connection) |
 | [0765-couples-holding-hands](https://github.com/adarshgupta004/solutions-repo/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/adarshgupta004/solutions-repo/tree/master/0304-range-sum-query-2d-immutable) |
 | [0661-image-smoother](https://github.com/adarshgupta004/solutions-repo/tree/master/0661-image-smoother) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0931-minimum-falling-path-sum) |
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-cracking-the-safe](https://github.com/adarshgupta004/solutions-repo/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/adarshgupta004/solutions-repo/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1113,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/adarshgupta004/solutions-repo/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/adarshgupta004/solutions-repo/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/adarshgupta004/solutions-repo/tree/master/0994-rotting-oranges) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Doubly-Linked List
