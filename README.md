@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/adarshgupta004/solutions-repo/tree/master/0825-friends-of-appropriate-ages) |
 | [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/adarshgupta004/solutions-repo/tree/master/0832-flipping-an-image) |
+| [0848-shifting-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarshgupta004/solutions-repo/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/adarshgupta004/solutions-repo/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/adarshgupta004/solutions-repo/tree/master/0860-lemonade-change) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0731-my-calendar-ii) |
 | [0813-largest-sum-of-averages](https://github.com/adarshgupta004/solutions-repo/tree/master/0813-largest-sum-of-averages) |
+| [0848-shifting-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0848-shifting-letters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/adarshgupta004/solutions-repo/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/0763-partition-labels) |
 | [0819-most-common-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/adarshgupta004/solutions-repo/tree/master/0821-shortest-distance-to-a-character) |
+| [0848-shifting-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/0848-shifting-letters) |
 | [0859-buddy-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0880-decoded-string-at-index) |
 | [0906-super-palindromes](https://github.com/adarshgupta004/solutions-repo/tree/master/0906-super-palindromes) |
