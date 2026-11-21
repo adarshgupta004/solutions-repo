@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/adarshgupta004/solutions-repo/tree/master/0781-rabbits-in-forest) |
+| [0813-largest-sum-of-averages](https://github.com/adarshgupta004/solutions-repo/tree/master/0813-largest-sum-of-averages) |
 | [0817-linked-list-components](https://github.com/adarshgupta004/solutions-repo/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/adarshgupta004/solutions-repo/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/adarshgupta004/solutions-repo/tree/master/0821-shortest-distance-to-a-character) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/adarshgupta004/solutions-repo/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/0731-my-calendar-ii) |
+| [0813-largest-sum-of-averages](https://github.com/adarshgupta004/solutions-repo/tree/master/0813-largest-sum-of-averages) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/adarshgupta004/solutions-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/adarshgupta004/solutions-repo/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/adarshgupta004/solutions-repo/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/adarshgupta004/solutions-repo/tree/master/0746-min-cost-climbing-stairs) |
+| [0813-largest-sum-of-averages](https://github.com/adarshgupta004/solutions-repo/tree/master/0813-largest-sum-of-averages) |
 | [0877-stone-game](https://github.com/adarshgupta004/solutions-repo/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/adarshgupta004/solutions-repo/tree/master/0894-all-possible-full-binary-trees) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshgupta004/solutions-repo/tree/master/0907-sum-of-subarray-minimums) |
