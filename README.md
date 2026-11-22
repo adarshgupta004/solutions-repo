@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarshgupta004/solutions-repo/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1254-number-of-closed-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/adarshgupta004/solutions-repo/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/adarshgupta004/solutions-repo/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1027,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/adarshgupta004/solutions-repo/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1140,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/adarshgupta004/solutions-repo/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/1254-number-of-closed-islands) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Doubly-Linked List
 |  |
