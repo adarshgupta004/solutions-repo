@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/adarshgupta004/solutions-repo/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Divide and Conquer
 |  |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adarshgupta004/solutions-repo/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Timsort
 |  |
 | ------- |
