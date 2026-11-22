@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/adarshgupta004/solutions-repo/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshgupta004/solutions-repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-number-of-unique-good-subsequences](https://github.com/adarshgupta004/solutions-repo/tree/master/1987-number-of-unique-good-subsequences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/adarshgupta004/solutions-repo/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2156-find-substring-with-given-hash-value](https://github.com/adarshgupta004/solutions-repo/tree/master/2156-find-substring-with-given-hash-value) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/2243-calculate-digit-sum-of-a-string) |
