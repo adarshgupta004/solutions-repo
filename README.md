@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1922-count-good-numbers) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2409-count-days-spent-together](https://github.com/adarshgupta004/solutions-repo/tree/master/2409-count-days-spent-together) |
 | [2514-count-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/2514-count-anagrams) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/adarshgupta004/solutions-repo/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2156-find-substring-with-given-hash-value](https://github.com/adarshgupta004/solutions-repo/tree/master/2156-find-substring-with-given-hash-value) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/adarshgupta004/solutions-repo/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/adarshgupta004/solutions-repo/tree/master/2409-count-days-spent-together) |
 | [2514-count-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/2514-count-anagrams) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adarshgupta004/solutions-repo/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3271-hash-divided-string](https://github.com/adarshgupta004/solutions-repo/tree/master/3271-hash-divided-string) |
