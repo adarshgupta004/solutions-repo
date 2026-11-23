@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1352-product-of-the-last-k-numbers) |
 | [1366-rank-teams-by-votes](https://github.com/adarshgupta004/solutions-repo/tree/master/1366-rank-teams-by-votes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/adarshgupta004/solutions-repo/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1352-product-of-the-last-k-numbers) |
 | [1399-count-largest-group](https://github.com/adarshgupta004/solutions-repo/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/adarshgupta004/solutions-repo/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1109-corporate-flight-bookings](https://github.com/adarshgupta004/solutions-repo/tree/master/1109-corporate-flight-bookings) |
 | [1124-longest-well-performing-interval](https://github.com/adarshgupta004/solutions-repo/tree/master/1124-longest-well-performing-interval) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1352-product-of-the-last-k-numbers) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/adarshgupta004/solutions-repo/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3364-minimum-positive-sum-subarray) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
@@ -1133,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/adarshgupta004/solutions-repo/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1146-snapshot-array) |
 | [1172-dinner-plate-stacks](https://github.com/adarshgupta004/solutions-repo/tree/master/1172-dinner-plate-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/adarshgupta004/solutions-repo/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/1670-design-front-middle-back-queue) |
 | [1797-design-authentication-manager](https://github.com/adarshgupta004/solutions-repo/tree/master/1797-design-authentication-manager) |
@@ -1473,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/adarshgupta004/solutions-repo/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/adarshgupta004/solutions-repo/tree/master/1670-design-front-middle-back-queue) |
 ## Iterator
