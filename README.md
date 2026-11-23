@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/adarshgupta004/solutions-repo/tree/master/1833-maximum-ice-cream-bars) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adarshgupta004/solutions-repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/adarshgupta004/solutions-repo/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adarshgupta004/solutions-repo/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adarshgupta004/solutions-repo/tree/master/2073-time-needed-to-buy-tickets) |
 | [2179-count-good-triplets-in-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/2179-count-good-triplets-in-an-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/adarshgupta004/solutions-repo/tree/master/1399-count-largest-group) |
 | [1655-distribute-repeating-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/1655-distribute-repeating-integers) |
 | [1726-tuple-with-same-product](https://github.com/adarshgupta004/solutions-repo/tree/master/1726-tuple-with-same-product) |
+| [2029-stone-game-ix](https://github.com/adarshgupta004/solutions-repo/tree/master/2029-stone-game-ix) |
 | [2514-count-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/2514-count-anagrams) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adarshgupta004/solutions-repo/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1922-count-good-numbers) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2029-stone-game-ix](https://github.com/adarshgupta004/solutions-repo/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/adarshgupta004/solutions-repo/tree/master/2409-count-days-spent-together) |
 | [2514-count-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/2514-count-anagrams) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/adarshgupta004/solutions-repo/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adarshgupta004/solutions-repo/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1833-maximum-ice-cream-bars](https://github.com/adarshgupta004/solutions-repo/tree/master/1833-maximum-ice-cream-bars) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2029-stone-game-ix](https://github.com/adarshgupta004/solutions-repo/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adarshgupta004/solutions-repo/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -1507,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 | [1406-stone-game-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/adarshgupta004/solutions-repo/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
@@ -1515,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 | [1406-stone-game-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/adarshgupta004/solutions-repo/tree/master/2029-stone-game-ix) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1534,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/adarshgupta004/solutions-repo/tree/master/0913-cat-and-mouse) |
 | [1406-stone-game-iii](https://github.com/adarshgupta004/solutions-repo/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/adarshgupta004/solutions-repo/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1545,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/adarshgupta004/solutions-repo/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
