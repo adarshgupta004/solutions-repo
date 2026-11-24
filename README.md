@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/adarshgupta004/solutions-repo/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/adarshgupta004/solutions-repo/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/adarshgupta004/solutions-repo/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Timsort
 |  |
 | ------- |
