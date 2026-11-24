@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/adarshgupta004/solutions-repo/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3693-climbing-stairs-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3429-paint-house-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/3429-paint-house-iv) |
 | [3524-find-x-value-of-array-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3693-climbing-stairs-ii) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
 ## Bitmask
 |  |
