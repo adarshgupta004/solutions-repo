@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adarshgupta004/solutions-repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adarshgupta004/solutions-repo/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adarshgupta004/solutions-repo/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3364-minimum-positive-sum-subarray) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/adarshgupta004/solutions-repo/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/adarshgupta004/solutions-repo/tree/master/1797-design-authentication-manager) |
 | [2514-count-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/2514-count-anagrams) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adarshgupta004/solutions-repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adarshgupta004/solutions-repo/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/adarshgupta004/solutions-repo/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/adarshgupta004/solutions-repo/tree/master/2514-count-anagrams) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adarshgupta004/solutions-repo/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3271-hash-divided-string](https://github.com/adarshgupta004/solutions-repo/tree/master/3271-hash-divided-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adarshgupta004/solutions-repo/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/adarshgupta004/solutions-repo/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -1041,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshgupta004/solutions-repo/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/adarshgupta004/solutions-repo/tree/master/0894-all-possible-full-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adarshgupta004/solutions-repo/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1067,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/adarshgupta004/solutions-repo/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adarshgupta004/solutions-repo/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
