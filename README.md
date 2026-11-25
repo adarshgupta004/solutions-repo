@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/adarshgupta004/solutions-repo/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/adarshgupta004/solutions-repo/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshgupta004/solutions-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adarshgupta004/solutions-repo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshgupta004/solutions-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/adarshgupta004/solutions-repo/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/adarshgupta004/solutions-repo/tree/master/2326-spiral-matrix-iv) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshgupta004/solutions-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -1072,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/adarshgupta004/solutions-repo/tree/master/0827-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/1254-number-of-closed-islands) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adarshgupta004/solutions-repo/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshgupta004/solutions-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1190,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/adarshgupta004/solutions-repo/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/adarshgupta004/solutions-repo/tree/master/1254-number-of-closed-islands) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/adarshgupta004/solutions-repo/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshgupta004/solutions-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
