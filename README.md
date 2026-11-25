@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
+| [3886-sum-of-sortable-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/3886-sum-of-sortable-integers) |
 | [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/adarshgupta004/solutions-repo/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/adarshgupta004/solutions-repo/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/adarshgupta004/solutions-repo/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3886-sum-of-sortable-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1141,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adarshgupta004/solutions-repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/adarshgupta004/solutions-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/adarshgupta004/solutions-repo/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+| [3886-sum-of-sortable-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/3886-sum-of-sortable-integers) |
 ## Primality Test
 |  |
 | ------- |
