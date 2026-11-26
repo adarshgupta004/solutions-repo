@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adarshgupta004/solutions-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/adarshgupta004/solutions-repo/tree/master/1366-rank-teams-by-votes) |
 | [1370-increasing-decreasing-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1370-increasing-decreasing-string) |
 | [1399-count-largest-group](https://github.com/adarshgupta004/solutions-repo/tree/master/1399-count-largest-group) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/adarshgupta004/solutions-repo/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adarshgupta004/solutions-repo/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adarshgupta004/solutions-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/adarshgupta004/solutions-repo/tree/master/1366-rank-teams-by-votes) |
 | [1370-increasing-decreasing-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1370-increasing-decreasing-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/adarshgupta004/solutions-repo/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adarshgupta004/solutions-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/adarshgupta004/solutions-repo/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/adarshgupta004/solutions-repo/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/adarshgupta004/solutions-repo/tree/master/1499-max-value-of-equation) |
