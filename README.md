@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/adarshgupta004/solutions-repo/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1331-rank-transform-of-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/adarshgupta004/solutions-repo/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/adarshgupta004/solutions-repo/tree/master/1352-product-of-the-last-k-numbers) |
 | [1366-rank-teams-by-votes](https://github.com/adarshgupta004/solutions-repo/tree/master/1366-rank-teams-by-votes) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/adarshgupta004/solutions-repo/tree/master/0923-3sum-with-multiplicity) |
 | [1051-height-checker](https://github.com/adarshgupta004/solutions-repo/tree/master/1051-height-checker) |
 | [1090-largest-values-from-labels](https://github.com/adarshgupta004/solutions-repo/tree/master/1090-largest-values-from-labels) |
+| [1331-rank-transform-of-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1331-rank-transform-of-an-array) |
 | [1366-rank-teams-by-votes](https://github.com/adarshgupta004/solutions-repo/tree/master/1366-rank-teams-by-votes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/adarshgupta004/solutions-repo/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-maximum-ice-cream-bars](https://github.com/adarshgupta004/solutions-repo/tree/master/1833-maximum-ice-cream-bars) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/adarshgupta004/solutions-repo/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/adarshgupta004/solutions-repo/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/adarshgupta004/solutions-repo/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1331-rank-transform-of-an-array](https://github.com/adarshgupta004/solutions-repo/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adarshgupta004/solutions-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/adarshgupta004/solutions-repo/tree/master/1366-rank-teams-by-votes) |
 | [1370-increasing-decreasing-string](https://github.com/adarshgupta004/solutions-repo/tree/master/1370-increasing-decreasing-string) |
