@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
 | [3886-sum-of-sortable-integers](https://github.com/adarshgupta004/solutions-repo/tree/master/3886-sum-of-sortable-integers) |
 | [3934-smallest-unique-subarray](https://github.com/adarshgupta004/solutions-repo/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/adarshgupta004/solutions-repo/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4013-count-subarrays-with-even-odd-ratio-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/4013-count-subarrays-with-even-odd-ratio-ii) |
 ## Binary Search
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarshgupta004/solutions-repo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarshgupta004/solutions-repo/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/adarshgupta004/solutions-repo/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Timsort
 |  |
 | ------- |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/adarshgupta004/solutions-repo/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/adarshgupta004/solutions-repo/tree/master/3693-climbing-stairs-ii) |
 | [3826-minimum-partition-score](https://github.com/adarshgupta004/solutions-repo/tree/master/3826-minimum-partition-score) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/adarshgupta004/solutions-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bitmask
 |  |
 | ------- |
